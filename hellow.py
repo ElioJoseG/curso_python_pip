@@ -1,4 +1,4 @@
 
 print('hellow word')
 
-print(hola Elio)
+print('Se corrigio el error')
